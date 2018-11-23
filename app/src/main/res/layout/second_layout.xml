@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="4">
+
+
+
+
+
+
+    <LinearLayout
+        android:id="@+id/layout1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_weight="2"
+        android:layout_marginTop="30dp"
+        android:layout_marginLeft="10dp">
+
+        <Button
+
+            android:id="@+id/btnHome1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/question"
+            android:onClick="showGreetings"/>
+
+
+        <Button
+
+            android:id="@+id/btnchange2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="showGreetings"
+            android:text="@string/change"/>
+
+
+
+        <Button
+
+            android:id="@+id/btnProblem3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="showGreetings"
+            android:text="@string/problems"/>
+
+        <Button
+
+            android:id="@+id/btnGuid4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="showGreetings"
+            android:text="guidelines"/>
+
+
+
+        <Button
+
+            android:id="@+id/btnSugg5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="showGreetings"
+            android:text="suggation"/>
+
+
+
+        <Button
+
+            android:id="@+id/btnDep6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="showGreetings"
+            android:text="depration"/>
+
+        <Button
+
+            android:id="@+id/btnEnter7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="showGreetings"
+            android:text="@string/entertainment"/>
+
+
+
+        <Button
+
+            android:id="@+id/btnPre8"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/pre"
+            android:layout_marginTop="100dp"
+            android:layout_marginLeft="40dp"
+            android:layout_below="@+id/layout1"
+            android:onClick="showGreetings"/>
+
+
+
+    </LinearLayout>
+
+    <LinearLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:orientation="vertical"
+        android:layout_weight="2"
+        android:layout_marginTop="30dp"
+        android:layout_marginLeft="50dp">
+
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="vedio"/>
+<Button
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="button"/>
+    </LinearLayout>
+
+
+
+    </LinearLayout>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+<item
+    android:id="@+id/home"
+    android:title="Home"
+    app:showAsAction="never"/>
+
+
+    <item
+        android:id="@+id/guidelines"
+        android:title="Guidelines"
+        app:showAsAction="never"/>
+
+
+    <item
+        android:id="@+id/problems"
+        android:title="Problems"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/question"
+        android:title="Question and answer"
+        app:showAsAction="never"/>
+
+
+</menu>

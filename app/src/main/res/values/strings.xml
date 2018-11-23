@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">Teenager</string>
+    <string name="home">Are You Teenager???</string>
+    <string name="next">Next</string>
+    <string name="pre">Previous</string>
+    <string name="question">question</string>
+    <string name="change">changes</string>
+    <string name="problems">Problems</string>
+    <string name="btnsugg"> suggation</string>
+    <string name="someq">  Teengers questions</string>
+    <string name="Teenagep">Teengers Problems</string>
+
+    <string name="entertainment">Entertainment</string>
+    <string name="habit">Habit</string>
+
+    <string name="Social_change">searching for identity: young people are busy working out who they are and where they
+        fit in the world.\n\n
+        This search can be influenced by gender, peer group, cultural background, media, school and family expectations
+seeking more independence:\n this is likely to influence the decisions your child makes and the relationships
+        your child has with family and friends
+seeking more responsibility, both at home and at school\n\n
+looking for new experiences: the nature of teenage brain development means that teenagers are
+        likely to seek out new experiences and engage in more risk-taking behaviour.\n
+        But they’re still developing control over their impulses </string>
+
+    <string name="Emotional_changes">
+You might notice that your teen:\n
+shows strong feelings and intense emotions at different times.\n
+        Moods might seem unpredictable.These emotional ups and downs can lead to increased conflict.
+        Your child’s brain is still learning how to control and express emotions in a grown-up way</string>
+
+    <!--data source for question file-->
+
+   <string-array name="Teenager_question">
+       <item>who</item>
+        <item>Who Am I?</item>
+        <item>Why Do I Worry About My Appearance?</item>
+        <item>How Can I Fix My Mistakes?</item>
+
+    </string-array>
+    <string name="ten_problems"> 10 Most Common Issues Teenagers Face Today\n\n
+1.They suffer from negative body image.\n\n
+2.They long to belong to supportive and accepting communities beyond their family.\n\n
+
+3.They experience stress and difficulty prioritizing and managing their time.\n\n
+4.They feel lots of pressure from peers, parents, and society to conform to conflicting expectations.\n\n
+5.They are at risk of mental and physical health issues.\n\n
+6.They lack good mentors, role models, and heroes.\n\n
+7.They are tempted to begin unhealthy patterns with drugs and alcohol.\n\n
+8.They are exposed to on-screen violence and unhealthy social media.\n\n
+9.They face bullying—online and off.\n
+10.They may participate in risky sexual activity and behavior.\n\n
+Each of these is described fully below, with suggestions for how a parent can help navigate or avoid these problems. </string>
+
+    <string-array name="Teenager_guidelines">
+
+        <item>Make good personality</item>
+        <item>Focus study and career goals</item>
+        <item>Watch good movie</item>
+        <item>Read story books.</item>
+        <item>Learning new things </item>
+        <item>Do not  spent time in social network</item>
+        <item>Buildup good habits</item>
+
+
+
+    </string-array>
+
+
+
+
+</resources>
